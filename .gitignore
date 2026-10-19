@@ -1,0 +1,16 @@
+# Python & PyInstaller
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.spec
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# OS Files
+Thumbs.db
+desktop.ini
